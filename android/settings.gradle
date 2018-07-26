@@ -1,0 +1,3 @@
+rootProject.name = 'PushwooshReactNativeSample'
+
+include ':app'
